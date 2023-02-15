@@ -1,0 +1,9 @@
+.contentCard {
+  border: 1px solid black;
+  width: 500px;
+  display: inline-block;
+}
+
+.First {
+  border: 2px solid black;
+}
